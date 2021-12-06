@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS01SBPS-PC01A-04C-IP3-streamed-primary_node_out_of_band_port_data
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Engineering Data<br>
+Instrument Group Code: None<br>
