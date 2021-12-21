@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: RS01SBPS-PC01A-04C-IP3-streamed-primary_node_out_of_band_port_data
-last_request: '2021-12-06T20:42:56.831501Z'
+last_request: '2021-12-21T23:11:17.227819Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SBPS-PC01A-04C-IP3-streamed-primary_node_out_of_band_port_data/main/history/response.json
 status: discontinued
